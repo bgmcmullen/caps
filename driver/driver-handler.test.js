@@ -1,5 +1,7 @@
 'use strict'
 
+
+// tests are chatgpt generated
 const events = require('../eventPool.js');
 const handlePackageReadyForPickup = require('./handler.js');
 
